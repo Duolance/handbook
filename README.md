@@ -10,3 +10,5 @@ wp4d.com -> Ailancer Folder
 
 gj4d.com -> Proposal Folder
 
+Logo folder -> https://drive.google.com/drive/folders/1Si7NtJ1FGmVKqB32UHYHjgAPvALOYv6x
+
